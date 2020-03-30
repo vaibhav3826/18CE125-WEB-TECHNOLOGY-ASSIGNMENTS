@@ -1,0 +1,35 @@
+	h1   {color: lightgreen;}
+
+p   {color: violet;
+		font-family: Times New Roman;
+  		font-size: 130%;
+  		border: 1px solid powderblue;
+  		padding: 2px;
+  	}
+  	
+ table{
+ 	border: 3px;
+ 	border-color:lightblue;  
+ 	align: center;
+ }
+
+
+ .intro{
+ 	border-bottom: 2px solid lightblue;
+    margin-bottom: 40px;
+    outline: 2px solid white;
+ }
+
+ #name{
+ 	font-family: verdana;
+ 	text-shadow: 5px #ff0000;
+ 	padding-top: 5px; 
+ }
+
+ #prepared{
+ 	font-family: tahoma;
+ 	font-size: 15px;
+ 	padding: 8px;
+    margin-bottom: 5%;
+    color: lightblue; 	
+ }
